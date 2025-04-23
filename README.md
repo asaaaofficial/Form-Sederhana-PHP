@@ -7,3 +7,5 @@
 ##
 
 ## Kontak
+- E-mail: asaaaofficial@gmail.com
+- Linkedin:

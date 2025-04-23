@@ -19,4 +19,4 @@ Form Sederhana PHP adalah proyek latihan sederhana untuk memahami cara kerja for
 
 ## Kontak
 - E-mail: asaaaofficial@gmail.com
-- Linkedin:
+- Linkedin: https://www.linkedin.com/in/aura-shauma-amatullah-16b49527b/

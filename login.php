@@ -14,7 +14,7 @@
         $password = $_POST['password'];
         $hash_password = hash('sha256', $password);
 
-        $sql = "SELECT * FROM users WHERE username='$username' AND password='$hash_password'";
+        $sql = "SELECT * FROM form_website WHERE username='$username' AND password='$hash_password'";
         $result = $db->query($sql);
 
         if($result->num_rows > 0){

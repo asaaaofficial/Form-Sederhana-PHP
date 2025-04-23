@@ -15,7 +15,7 @@
         $hash_password = hash("sha256", $password);
 
         try{
-            $sql = "INSERT INTO users (username, password) VALUES ('$username', '$hash_password')";
+            $sql = "INSERT INTO form_website (username, password) VALUES ('$username', '$hash_password')";
 
             if($db->query($sql)) {
                 $register_message = "Daftar akun berhasi, silahkan login";
